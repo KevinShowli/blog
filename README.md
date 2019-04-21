@@ -1,5 +1,5 @@
 # Note
-#####自己的笔记库，记录一些日常开发中的小技巧、小知识。
+##### 自己的笔记库，记录一些日常开发中的小技巧、小知识。
 >[面试题：写出满足下列要求的代码](https://github.com/KevinShowli/blog/blob/master/articles/1.md)
 ```javascript
 LazyMan('Tony');
