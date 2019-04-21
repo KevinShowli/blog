@@ -25,5 +25,6 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 // I am eating junk food
 ```
 >[利用::after/::before伪类实现图片在不定高宽的块元素中的自适应居中](https://github.com/KevinShowli/blog/blob/master/articles/2.md)
+
 ![](https://github.com/KevinShowli/blog/blob/master/images/inline-block1.png)
 [查看这个例子](https://github.com/KevinShowli/blog/blob/master/demos/inline-block.html)
