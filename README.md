@@ -1,6 +1,6 @@
 # Note
 自己的笔记库，记录一些日常开发中的小技巧、小知识。
->[写出满足下列要求的代码](https://github.com/KevinShowli/blog/blob/master/articles/1.md)
+>[面试题：写出满足下列要求的代码](https://github.com/KevinShowli/blog/blob/master/articles/1.md)
 ```javascript
 LazyMan('Tony');
 // Hi I am Tony
@@ -24,6 +24,7 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 // 等待了10秒...
 // I am eating junk food
 ```
+---
 >[利用::after/::before伪类实现图片在不定高宽的块元素中的自适应居中](https://github.com/KevinShowli/blog/blob/master/articles/2.md)
 
 ![](https://github.com/KevinShowli/blog/blob/master/images/inline-block1.png)
