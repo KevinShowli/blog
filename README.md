@@ -1,5 +1,5 @@
 # Note
->[写出满足下列要求的代码；](./articles/1.doc)
+>[写出满足下列要求的代码；](https://github.com/KevinShowli/blog/blob/master/articles/1.doc)
 ```javascript
 LazyMan('Tony');
 // Hi I am Tony
