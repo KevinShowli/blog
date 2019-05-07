@@ -31,6 +31,7 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 [查看这个例子](https://github.com/KevinShowli/blog/blob/master/demos/inline-block.html)
 
 #
->安装Java环境
+>[安装Java环境](https://github.com/KevinShowli/blog/blob/master/articles/3.md)
+
 ![](https://github.com/KevinShowli/blog/blob/master/images/java环境变量.png)
  
