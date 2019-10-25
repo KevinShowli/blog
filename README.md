@@ -42,5 +42,5 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 ![](https://github.com/KevinShowli/blog/blob/master/images/build.png)
  
  #
- vue中使用layer
+ >vue中使用layer
 ![](https://github.com/KevinShowli/blog/blob/master/images/layer.png)
