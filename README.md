@@ -34,4 +34,10 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 >[安装Java环境](https://github.com/KevinShowli/blog/blob/master/articles/3.md)
 
 ![](https://github.com/KevinShowli/blog/blob/master/images/java环境变量.png)
+
+
+#
+>[vue项目打包路径配置](https://github.com/KevinShowli/blog/blob/master/articles/4.md)
+
+![](https://github.com/KevinShowli/blog/blob/master/images/build.png)
  
