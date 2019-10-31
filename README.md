@@ -1,6 +1,6 @@
 # Note
 ##### 自己的笔记库，记录一些日常开发中的小技巧、小知识。
->[面试题：写出满足下列要求的代码](https://github.com/KevinShowli/blog/tree/master/articles/1.md)
+>[面试题：写出满足下列要求的代码](https://github.com/KevinShowli/blog/blob/master/articles/1.md)
 ```javascript
 LazyMan('Tony');
 // Hi I am Tony
@@ -25,23 +25,23 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 // I am eating junk food
 ```
 #
->[利用::after/::before伪类实现图片在不定高宽的块元素中的自适应居中](https://github.com/KevinShowli/blog/tree/master/articles/2.md)
+>[利用::after/::before伪类实现图片在不定高宽的块元素中的自适应居中](https://github.com/KevinShowli/blog/blob/master/articles/2.md)
 
-![](https://github.com/KevinShowli/blog/tree/master/images/inline-block1.png)
-[查看这个例子](https://github.com/KevinShowli/blog/tree/master/demos/inline-block.html)
-
-#
->[安装Java环境](https://github.com/KevinShowli/blog/tree/master/articles/3.md)
-
-![](https://github.com/KevinShowli/blog/tree/master/images/java环境变量.png)
-
+![](https://github.com/KevinShowli/blog/blob/master/images/inline-block1.png)
+[查看这个例子](https://github.com/KevinShowli/blog/blob/master/demos/inline-block.html)
 
 #
->[vue项目打包路径配置](https://github.com/KevinShowli/blog/tree/master/articles/4.md)
+>[安装Java环境](https://github.com/KevinShowli/blog/blob/master/articles/3.md)
 
-![](https://github.com/KevinShowli/blog/tree/master/images/build.png)
+![](https://github.com/KevinShowli/blog/blob/master/images/java环境变量.png)
+
+
+#
+>[vue项目打包路径配置](https://github.com/KevinShowli/blog/blob/master/articles/4.md)
+
+![](https://github.com/KevinShowli/blog/blob/master/images/build.png)
  
  #
  ###### vue中使用layer
 
-![](https://github.com/KevinShowli/blog/tree/master/images/layer.png)
+![](https://github.com/KevinShowli/blog/blob/master/images/layer.png)
